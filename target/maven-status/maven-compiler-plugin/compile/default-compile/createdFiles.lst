@@ -1,0 +1,6 @@
+com\sacavix\todoapp\TodoappApplication.class
+com\sacavix\todoapp\service\TaskService.class
+com\sacavix\todoapp\persistence\entity\Task.class
+com\sacavix\todoapp\persistence\repository\TaskRepository.class
+com\sacavix\todoapp\controller\TaskController.class
+com\sacavix\todoapp\context\SwaggerConfig.class
